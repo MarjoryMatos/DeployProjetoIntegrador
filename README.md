@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  <h1> Projeto Integrador - Backend 6Educa </h1>
+  <h1> Projeto Integrador - BackEnd 6Educa </h1>
   
  <h2> 👩‍💻 6Educa é um projeto desenvolvido durante o curso da <a href="https://brazil.generation.org/">Generation Brasil</a> utilizando as tecnologias <i>Java, Spring Boot, REST API, MySQL, Angular e TypeScript.</i>
  </h2>
@@ -29,7 +29,7 @@ Centralizamos na educação de qualidade para todos, permitindo a facilidade de 
 ##
 ### 💻 TECNOLOGIAS
 
-- [ ] Frontend: [Angular](https://angular.io/) + [TypeScript](https://www.typescriptlang.org/) + [Bootstrap](https://getbootstrap.com/) 
+- [x] Frontend: [Angular](https://angular.io/) + [TypeScript](https://www.typescriptlang.org/) + [Bootstrap](https://getbootstrap.com/) 
 - [x] Backend: [Spring Boot](https://spring.io/projects/spring-boot) + [Java 8](https://www.java.com/pt-BR/download/help/java8_pt-br.html) + [MySQL](https://www.mysql.com/)  
 ##
 
@@ -49,17 +49,19 @@ DELETE
 
 ### 💾 DEPLOY
 
-[Deploy Heroku](https://seiseduca.herokuapp.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config)<br/>
-<br />
+Back-End: [Deploy Heroku](https://seiseduca.herokuapp.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config)<br/>
 Login: root <br/>
 Senha: root
+
+Front-End: [Netlify](6educa.netlify.app)<br/>
+
 
 ##
 ### 🌟 DESENVOLVEDORES
 
-| Daniel | Ester | Israel | Marjory | Rafael | Vinícius |
-|--------|-------|--------|---------|--------|----------|
-|![Daniel](https://user-images.githubusercontent.com/86428389/170371446-d94e9adc-1349-49b3-bd45-8d2bf8465e65.jpeg)| ![Ester](https://user-images.githubusercontent.com/86428389/170371458-69038ef1-4c44-4b02-9846-aa8bac71e2c5.jpeg)|![Israel](https://user-images.githubusercontent.com/86428389/170371468-ba1691cc-1807-4c58-92bc-5fc48b92aa72.jpeg)|![Marjory](https://user-images.githubusercontent.com/86428389/170371479-7c619eb5-e5bc-4b2c-a60b-4f55da387835.jpeg)|![Rafael](https://user-images.githubusercontent.com/86428389/170371499-35dbc6df-4e2a-47a0-965e-00d3f3892d6f.jpeg)|![Vinicius](https://user-images.githubusercontent.com/86428389/170371510-0be002e2-0648-416a-81e8-5736802e6ff7.jpeg)|
+| Ester | Israel | Marjory | Rafael | Vinícius |
+|-------|--------|---------|--------|----------|
+| ![Ester](https://user-images.githubusercontent.com/86428389/170371458-69038ef1-4c44-4b02-9846-aa8bac71e2c5.jpeg)|![Israel](https://user-images.githubusercontent.com/86428389/170371468-ba1691cc-1807-4c58-92bc-5fc48b92aa72.jpeg)|![Marjory](https://user-images.githubusercontent.com/86428389/170371479-7c619eb5-e5bc-4b2c-a60b-4f55da387835.jpeg)|![Rafael](https://user-images.githubusercontent.com/86428389/170371499-35dbc6df-4e2a-47a0-965e-00d3f3892d6f.jpeg)|![Vinicius](https://user-images.githubusercontent.com/86428389/170371510-0be002e2-0648-416a-81e8-5736802e6ff7.jpeg)|
 
 ##
 
